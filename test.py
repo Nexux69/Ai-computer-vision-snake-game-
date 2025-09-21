@@ -12,7 +12,7 @@ def get_camera_index(max_tested=5):
             return i
         cap.release()
     return None
-# Put your IP hera if yor are using DriodCam
+# Put your IP here if yor are using DriodCam
 # Example : 192.168.1.101
 IP, PORT = "Your IP", "4747"
 urls = [f"http://{IP}:{PORT}/video", f"http://{IP}:{PORT}/mjpegfeed"]
