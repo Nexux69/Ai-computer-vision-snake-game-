@@ -85,16 +85,6 @@ A fun, interactive Snake Game you control by moving a green object in front of y
 
 ---
 
-## 📸 Demo
-
-| Gameplay Example |
-|:----------------:|
-| ![Snake Game Demo](./assets/snake_game_demo.gif) |
-
-*Make sure to add your own screenshot or GIF in the `assets/` folder!*
-
----
-
 ## 🛠️ Troubleshooting
 
 - **DroidCam Not Working?**
@@ -108,10 +98,6 @@ A fun, interactive Snake Game you control by moving a green object in front of y
 
 ---
 
-## 📦 License
 
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-**Enjoy playing and feel free to contribute or report issues!**
+**Enjoy playing and feel free to contribute **
